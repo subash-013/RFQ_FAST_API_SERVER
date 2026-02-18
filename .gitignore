@@ -1,0 +1,10 @@
+# Standard Python ignores
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+.env
+.env.*
