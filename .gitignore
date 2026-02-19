@@ -10,3 +10,7 @@ venv/
 .env.*
 
 ai_models/
+
+# ...BUT do not ignore the example template
+!.env.example
+
